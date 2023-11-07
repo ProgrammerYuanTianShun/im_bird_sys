@@ -10,5 +10,6 @@ public class GitController {
         System.out.println("Hello github3");
         System.out.println("Hello github4");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
